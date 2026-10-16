@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-10-16T04:18:03.636012+00:00",
+  "total_records": 35,
+  "total_entities": 138,
+  "duplicates_removed": 0,
+  "discarded_qc": 0,
+  "by_source": {
+    "pilot_voice": 5,
+    "ocr_documents": 30
+  },
+  "by_label": {
+    "NOMBRE": 45,
+    "DNI": 31,
+    "DIRECCION": 22,
+    "TELEFONO": 20,
+    "EMAIL": 20
+  },
+  "output_files": {
+    "dataset": "data/merged/merged_dataset.jsonl",
+    "provenance": "data/merged/provenance.jsonl",
+    "report": "data/merged/merge_report.json"
+  }
+}

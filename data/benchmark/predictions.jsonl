@@ -1,0 +1,7 @@
+{"id": "dc7621fe-0b31-40e0-a295-83c3775c6099", "entities": [{"label": "EMAIL", "value": "golmo@example.org"}, {"label": "TELEFONO", "value": "+34 979 665 607"}, {"label": "DNI", "value": "64090627T"}]}
+{"id": "789efa95-4546-4b36-8f08-cf427738defe", "entities": [{"label": "EMAIL", "value": "ambrosio52@example.org"}, {"label": "TELEFONO", "value": "+34 843411369"}, {"label": "DNI", "value": "07610676E"}]}
+{"id": "ce3cac7f-1d6c-47f1-8da5-3453a8750aa8", "entities": [{"label": "EMAIL", "value": "illamas@example.com"}, {"label": "TELEFONO", "value": "+34 923 463 983"}, {"label": "DNI", "value": "87789561X"}]}
+{"id": "1cf6d696-e1b1-43b8-b742-b04d0a1493b6", "entities": [{"label": "EMAIL", "value": "reyes29@example.net"}, {"label": "TELEFONO", "value": "+34 986003742"}, {"label": "DNI", "value": "17972131T"}]}
+{"id": "6c061887-5a87-4241-80b4-099e64f112f3", "entities": [{"label": "DNI", "value": "58276484G"}]}
+{"id": "224dd1b0-f77f-433b-80df-58db6c53a8c6", "entities": [{"label": "EMAIL", "value": "vcatalan@example.com"}, {"label": "TELEFONO", "value": "+34946967020"}, {"label": "DNI", "value": "42175084F"}]}
+{"id": "f5edf426-fef3-4c08-89aa-776c6063e1ce", "entities": [{"label": "DNI", "value": "81970126N"}]}
